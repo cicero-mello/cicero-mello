@@ -34,4 +34,4 @@
 |----------|------------------|-----------------|---------------------------------------------------------------------------------------------------------------|
 | Nearby   | Mobile           | React Native    | [![status](https://img.shields.io/badge/Finished-green)](https://github.com/cicero-mello/nearby-react-native) |
 | in.orbit | Full-Stack       | React & Fastify | [![status](https://img.shields.io/badge/Finished-green)](https://github.com/cicero-mello/in.orbit-react)      |
-| My Links | Mobile           | React Native    | [![status](https://img.shields.io/badge/WIP-orange)](https://github.com/cicero-mello/my-links)                |
+| My Links | Mobile           | React Native    | [![status](https://img.shields.io/badge/Finished-green)](https://github.com/cicero-mello/my-links)                |
