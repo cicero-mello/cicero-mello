@@ -1,11 +1,11 @@
 ## Original Public Projects:
 
 ### Front-End Web:
-| Name          | Framework | Status                                                 |
+| Name          | Framework | Status                                                                                                |
 |---------------|-----------|-------------------------------------------------------------------------------------------------------|
 | Portfolio     | Qwik      | [![status](https://img.shields.io/badge/Finished-green)](https://github.com/cicero-mello/portfolio)   |
 | C-Streaming   | Gatsby    | [![status](https://img.shields.io/badge/Finished-green)](https://github.com/cicero-mello/c-streaming) |
-| PokéInfo      | Preact    | [![status](https://img.shields.io/badge/Finished-green)](https://github.com/cicero-mello/poke-info)  |
+| PokéInfo      | Preact    | [![status](https://img.shields.io/badge/Finished-green)](https://github.com/cicero-mello/poke-info)   |
 
 
 ### Full-Stack Web:
@@ -34,4 +34,11 @@
 |----------|------------------|-----------------|---------------------------------------------------------------------------------------------------------------|
 | Nearby   | Mobile           | React Native    | [![status](https://img.shields.io/badge/Finished-green)](https://github.com/cicero-mello/nearby-react-native) |
 | in.orbit | Full-Stack       | React & Fastify | [![status](https://img.shields.io/badge/Finished-green)](https://github.com/cicero-mello/in.orbit-react)      |
-| My Links | Mobile           | React Native    | [![status](https://img.shields.io/badge/Finished-green)](https://github.com/cicero-mello/my-links)                |
+| My Links | Mobile           | React Native    | [![status](https://img.shields.io/badge/Finished-green)](https://github.com/cicero-mello/my-links)            |
+
+&nbsp;
+
+## Original Private Projects:
+| Name     | Development Area | Frameworks      | Publish  | Status                                               |
+|----------|------------------|-----------------|----------|------------------------------------------------------|
+| -        | Mobile           | React Native    | Upcoming |![status](https://img.shields.io/badge/WIP-orange)    |
