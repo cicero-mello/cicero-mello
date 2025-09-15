@@ -17,7 +17,7 @@
 ### Desktop App:
 | Name | Framework              | Status                                                                                    |
 |------|------------------------|-------------------------------------------------------------------------------------------|
-| zlk  | Tauri (SolidJS & Rust) | [![status](https://img.shields.io/badge/WIP-orange)](https://github.com/cicero-mello/zlk) |
+| zlk  | Tauri (SolidJS & Rust) | [![status](https://img.shields.io/badge/PAUSED-orange)](https://github.com/cicero-mello/zlk) |
 
 
 ### NPM Packages:
@@ -41,4 +41,4 @@
 ## Original Private Projects:
 | Name     | Development Area | Frameworks      | Publish  | Status                                               |
 |----------|------------------|-----------------|----------|------------------------------------------------------|
-| -        | Mobile           | React Native    | Upcoming |![status](https://img.shields.io/badge/WIP-orange)    |
+| -        | Mobile           | React Native    | Upcoming |![status](https://img.shields.io/badge/Closed&nbsp;Testing-purple)    |
