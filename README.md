@@ -39,6 +39,6 @@
 &nbsp;
 
 ## Original Private Projects:
-| Name     | Development Area | Frameworks      | Publish  | Status                                               |
-|----------|------------------|-----------------|----------|------------------------------------------------------|
-| -        | Mobile           | React Native    | Upcoming |![status](https://img.shields.io/badge/Closed&nbsp;Testing-purple)    |
+| Name     | Development Area | Frameworks      | Publish                 | Status                                                        |
+|----------|------------------|-----------------|-------------------------|---------------------------------------------------------------|
+| -        | Mobile           | React Native    | Waiting For Closed Test |![status](https://img.shields.io/badge/MVP&nbsp;Finished-blue) |
