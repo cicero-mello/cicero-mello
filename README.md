@@ -40,7 +40,7 @@
 &nbsp;
 
 ## Original Private Projects:
-| Name          | Development Area | Frameworks      | Publish                       | Status                                                           |
-|---------------|------------------|-----------------|-------------------------------|------------------------------------------------------------------|
-| (unrevealed)  | Mobile           | React Native    | Waiting (due to bureaucracy)  |![status](https://img.shields.io/badge/MVP&nbsp;Finished-294CBE)  |
-| (unrevealed)  | Mobile           | React Native    | -                             |![status](https://img.shields.io/badge/WIP-BE6729)                |
+| Name          | Development Area | Frameworks      | Publish                      | Status                                                           |
+|---------------|------------------|-----------------|------------------------------|------------------------------------------------------------------|
+| (unrevealed)  | Mobile           | React Native    | Waiting (due to bureaucracy) |![status](https://img.shields.io/badge/MVP&nbsp;Finished-294CBE)  |
+| (unrevealed)  | Mobile           | React Native    | Waiting (in Closed Test)     |![status](https://img.shields.io/badge/WIP-BE6729)                |
