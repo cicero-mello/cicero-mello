@@ -27,6 +27,7 @@
 | cm-glitch         | Web Animations | [![npm](https://img.shields.io/npm/v/cm-glitch?color=7D29BE)](https://github.com/cicero-mello/cm-glitch)                 |
 | cm-typing-effect  | Web Animations | [![npm](https://img.shields.io/npm/v/cm-typing-effect?color=7D29BE)](https://github.com/cicero-mello/cm-typing-effect)   |
 | diceware-ptbr     | Security       | [![npm](https://img.shields.io/npm/v/diceware-ptbr?color=7D29BE)](https://github.com/cicero-mello/diceware-ptbr)         |
+| diceware-en       | Security       | [![npm](https://img.shields.io/npm/v/diceware-en?color=7D29BE)](https://github.com/cicero-mello/diceware-en)             |
 
 &nbsp;
 
