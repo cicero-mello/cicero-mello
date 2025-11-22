@@ -43,5 +43,5 @@
 ## Original Private Projects:
 | Name          | Development Area | Frameworks      | Status                                                                                                                                                           |
 |---------------|------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nozlock       | Mobile           | React Native    | [![PlayStore](https://img.shields.io/badge/Published-PlayStore-4285F6?labelColor=5D42F6)](https://play.google.com/store/apps/details?id=com.ciceromello.nozlock) |
+| Nozlock       | Mobile           | React Native    | [![PlayStore](https://img.shields.io/badge/Published-Google_Play_Store-4285F6?labelColor=5D42F6)](https://play.google.com/store/apps/details?id=com.ciceromello.nozlock) |
 | (unrevealed)  | Mobile           | React Native    | Waiting (due to bureaucracy)                                                                                                                                     |
